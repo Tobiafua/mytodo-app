@@ -19,9 +19,9 @@ class MyApp extends StatelessWidget {
       builder: DevicePreview.appBuilder,
       title: 'MyTodo',
       theme: ThemeData(
-          primaryColor: const Color.fromRGBO(37, 43, 103, 1),
+          primaryColor: const Color.fromRGBO(78 , 67 , 100 , 1),
           appBarTheme: const AppBarTheme(
-              backgroundColor: Color.fromRGBO(37, 43, 103, 1), elevation: 0)),
+              backgroundColor: Color.fromRGBO(78 , 67 , 100 , 1), elevation: 0)),
       home: const HomeView(),
     );
   }
