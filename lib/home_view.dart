@@ -58,7 +58,7 @@ class _HomeViewState extends State<HomeView> {
         ),
         leading: const Center(
             child: CircleAvatar(
-              backgroundImage: AssetImage ('assets/person_1.jpeg'),
+              backgroundImage: AssetImage ('assets/pic.jpg'),
         
         )),
         actions: [
