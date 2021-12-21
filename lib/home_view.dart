@@ -96,7 +96,7 @@ class _HomeViewState extends State<HomeView> {
           }));
         },
         child: const Icon(Icons.add),
-        backgroundColor: const Color.fromRGBO(37, 43, 103, 1),
+        backgroundColor: const Color.fromRGBO(78, 67 , 100, 1),
       ),
       body: ListView.separated(
           padding: const EdgeInsets.all(16),
