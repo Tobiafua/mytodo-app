@@ -225,7 +225,7 @@ class _HomeViewState extends State<HomeView> {
             },
             child: Material(
               borderRadius: BorderRadius.circular(10),
-              color: const Color.fromRGBO(37, 43, 103, 1),
+              color: const Color.fromRGBO(78, 67, 100, 1),
               child: Padding(
                 padding: const EdgeInsets.all(15.0),
                 child: Row(
@@ -345,7 +345,7 @@ class TaskCardWidget extends StatelessWidget {
                       style: const TextStyle(
                           fontWeight: FontWeight.bold,
                           fontSize: 20,
-                          color: Color.fromRGBO(37, 43, 103, 1)),
+                          color: Color.fromRGBO(78, 67 , 100, 1)),
                     ),
                     Text(
                       description,
